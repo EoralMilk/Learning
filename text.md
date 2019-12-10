@@ -19,18 +19,20 @@
     2. <sup>123</sup>
     3. [^sd]
     - `py`
+    - __<u><abbr title="etcetera">etc.</abbr></u>__
+    - <p><bdo dir="rtl">该段落文字从右到左显示。</bdo></p>  
     ```python
     import something
     def func(x):
         pass
     ```      
 ***
-链接也可以用变量来代替，文档末尾附带变量地址：
-这个链接用 1 作为网址变量 [Google][1]
-这个链接用 runoob 作为网址变量 [Runoob][runoob]
-然后在文档的结尾为变量赋值（网址）  
+<q>链接也可以用变量来代替，文档末尾附带变量地址：</q>  
+这个链接用 1 作为网址变量 [Google][1]<br/>
+> 这个链接用 runoob 作为网址变量 [Runoob][runoob]
+- 然后在文档的结尾为变量赋值（网址）  
  
-<a href="http://www.runoob.com">这是一个链接</a>
+<a href="https://github.com/EoralMilk/HelloOpenCV/blob/master/skly1.jpg">这是一个链接</a>
 
 [![picture1](https://github.com/EoralMilk/HelloOpenCV/blob/master/skly1.jpg?raw=true "pu")](https://github.com/EoralMilk/HelloOpenCV/blob/master/skly1.jpg)  
 ***
