@@ -16,7 +16,7 @@
     - _rgfg_**i**___sd___<u>sfsfsf</u>  <u>dffasjdhgkdshfuidh  
     2. > dfdsfdfdsfdf</u>
     3. <sup>123</sup>
-    4. [sd]
+    4. [^sd]
     - `py`
     ```python
     import something
@@ -47,4 +47,4 @@ A[方形] -->B(圆角)
 [1]: http://www.google.com/
 [runoob]: http://www.runoob.com/
 
-[sd]: fdf
+[^sd]: fdf
